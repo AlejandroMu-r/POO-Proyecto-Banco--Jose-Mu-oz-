@@ -2,6 +2,13 @@
 Proyecto Java realizado en NetBeans.
 Jose Alejandro Muñoz Maradiiaga
 20232030675
+---------------------------------------------------------------------------------
+Instrucciones
+1.Abrir el proyecto en netbeans
+2.Verificar los cuatro archivos que esten abiertos antes de ejecutarlos
+3. Abrir main.java
+4. Ejecutar el programa
+5. Verificar que el resultado aparezca en el programa
 (Los codigos estan en la rama master del repositorio)
 <img width="1782" height="1163" alt="image" src="https://github.com/user-attachments/assets/17293532-b212-4a49-9bd5-6260966e099b" />
 <img width="1037" height="303" alt="image" src="https://github.com/user-attachments/assets/43cb5bed-8dbb-4aaa-8967-aaa6bec194ba" />
